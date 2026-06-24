@@ -1,0 +1,2 @@
+# PythonAI
+simple algorithm exercises
